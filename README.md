@@ -3,11 +3,13 @@ Custom User CSS
 
 This plugin adds a custom CSS setting to the users profile. The setting is stored per user.
 
-Author
-------
+Authors & Contributors
+------------
 
-- Sebastian Pape
-- License MIT
+- [Sebastian Pape](https://github.com/PapeCoding) - Author
+- [@githtest89](https://github.com/githtest89) - Contributor
+  
+  More Contributors welcome!
 
 Installation
 ------------
